@@ -22,4 +22,5 @@ function fancyAlert(arg) {
   }
 }
 ```
-![fratacco](img1.jpg)
+![pandas-plot](image-pandas.png)
+![pandas-pie](image-pandas-pie.png)
