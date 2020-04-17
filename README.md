@@ -22,4 +22,4 @@ function fancyAlert(arg) {
   }
 }
 ```
-![alt text](http://url/to/img1.png)
+![fratacco](img1.jpg)
